@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1656349872 source:c:\users\guilh\desktop\escultura 3d\escultura\sculptor.cpp
+	"sculptor.h"
+	<iostream>
+	<fstream>
+	<cstdlib>
+	<string>
+	<math.h>
+	<iomanip>
+
+1655245886 c:\users\guilh\desktop\escultura 3d\escultura\sculptor.h
+
+1656349635 source:c:\users\guilh\desktop\escultura 3d\escultura\main.cpp
+	<iostream>
+	"sculptor.h"
+	<math.h>
+
